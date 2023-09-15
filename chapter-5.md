@@ -1,5 +1,7 @@
-CHAPTER V.
-Advice from a Caterpillar
+![alt="An image of Alice peeking over a giant mushroom to see a caterpillar smoking a hookah."](img/illustration-15.png)
+
+# CHAPTER V.
+## Advice from a Caterpillar
 
 
 The Caterpillar and Alice looked at each other for some time in
@@ -73,52 +75,52 @@ used—and I don’t keep the same size for ten minutes together!”
 
 “Can’t remember _what_ things?” said the Caterpillar.
 
-“Well, I’ve tried to say “How doth the little busy bee,” but it all
+“Well, I’ve tried to say *'How doth the little busy bee,'* but it all
 came different!” Alice replied in a very melancholy voice.
 
 “Repeat, “_You are old, Father William_,’” said the Caterpillar.
 
 Alice folded her hands, and began:—
-
-“You are old, Father William,” the young man said,
+![alt="An image of a young man with his hand out, staring at old Father William standing on his head"](img/illustration-16.png)
+*“You are old, Father William,” the young man said,
     “And your hair has become very white;
 And yet you incessantly stand on your head—
-    Do you think, at your age, it is right?”
+    Do you think, at your age, it is right?”*
 
-“In my youth,” Father William replied to his son,
+*“In my youth,” Father William replied to his son,
     “I feared it might injure the brain;
 But, now that I’m perfectly sure I have none,
-    Why, I do it again and again.”
-
-“You are old,” said the youth, “as I mentioned before,
+    Why, I do it again and again.”*
+![alt="An image of the shocked boy watching Father William performing a back-somersault as he enters the house."](img/illustration-17.png)
+*“You are old,” said the youth, “as I mentioned before,
     And have grown most uncommonly fat;
 Yet you turned a back-somersault in at the door—
-    Pray, what is the reason of that?”
+    Pray, what is the reason of that?”*
 
-“In my youth,” said the sage, as he shook his grey locks,
+*“In my youth,” said the sage, as he shook his grey locks,
     “I kept all my limbs very supple
 By the use of this ointment—one shilling the box—
-    Allow me to sell you a couple?”
-
-“You are old,” said the youth, “and your jaws are too weak
+    Allow me to sell you a couple?”*
+![alt="An image of the boy, gaping at Father William as he reveals the empty tray on the dining table."](img/illustration-18.png)
+*“You are old,” said the youth, “and your jaws are too weak
     For anything tougher than suet;
 Yet you finished the goose, with the bones and the beak—
-    Pray, how did you manage to do it?”
+    Pray, how did you manage to do it?”*
 
-“In my youth,” said his father, “I took to the law,
+*“In my youth,” said his father, “I took to the law,
     And argued each case with my wife;
 And the muscular strength, which it gave to my jaw,
-    Has lasted the rest of my life.”
-
-“You are old,” said the youth, “one would hardly suppose
+    Has lasted the rest of my life.”*
+![alt="An image of the boy watching Father William balance an eel on the tip of his nose."](img/illustration-19.png)
+*“You are old,” said the youth, “one would hardly suppose
     That your eye was as steady as ever;
 Yet you balanced an eel on the end of your nose—
-    What made you so awfully clever?”
+    What made you so awfully clever?”*
 
-“I have answered three questions, and that is enough,”
+*“I have answered three questions, and that is enough,”
     Said his father; “don’t give yourself airs!
 Do you think I can listen all day to such stuff?
-    Be off, or I’ll kick you down stairs!”
+    Be off, or I’ll kick you down stairs!”*
 
 
 “That is not said right,” said the Caterpillar.
@@ -293,3 +295,10 @@ upon an open place, with a little house in it about four feet high.
 _this_ size: why, I should frighten them out of their wits!” So she
 began nibbling at the righthand bit again, and did not venture to go
 near the house till she had brought herself down to nine inches high.
+
+### List of Figures
+- Figure 1 - ["Caption"](#id)
+- Figure 2 - ["Caption"](#id)
+- Figure 3 - ["Caption"](#id)
+- Figure 4 - ["Caption"](#id)
+- Figure 5 - ["Caption"](#id)
