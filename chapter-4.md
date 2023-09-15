@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Alice's Adventures in Wonderland</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+
 CHAPTER IV.
 The Rabbit Sends in a Little Bill
 
@@ -258,3 +267,6 @@ mushroom, and her eyes immediately met those of a large blue
 caterpillar, that was sitting on the top with its arms folded, quietly
 smoking a long hookah, and taking not the smallest notice of her or of
 anything else.
+
+</body>
+</html>
